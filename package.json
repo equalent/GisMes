@@ -1,0 +1,10 @@
+{
+  "name": "GisMes",
+  "version": "1.0.0",
+  "description": "GIS for Moscow Electronic School (MES)",
+  "main": "index.js",
+  "repository": "https://github.com/equalent/GisMes.git",
+  "author": "Andrey Tsurkan <andrey.turcan@hotmail.com>",
+  "license": "Apache2",
+  "private": true
+}
